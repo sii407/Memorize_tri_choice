@@ -1,9 +1,9 @@
 # **3択暗記システム**
 
 ## **動作画面**
-![動作画面1](display_mtc_1.png)
-![動作画面2](display_mtc_2.png)
-![動作画面3](display_mtc_3.png)
+<img width="492" height="197" alt="display_mtc_1" src="https://github.com/user-attachments/assets/37f761d7-4e2b-4bd8-9f9a-fbef09b59d04" />
+<img width="563" height="143" alt="display_mtc_2" src="https://github.com/user-attachments/assets/68150b5d-986c-43a7-a3ce-715c3b799ed3" />
+<img width="716" height="402" alt="display_mtc_3" src="https://github.com/user-attachments/assets/2044df71-2051-455b-83d5-8ea44a265e5f" />
 
 ## **概要**
 
